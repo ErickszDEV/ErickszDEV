@@ -1,16 +1,39 @@
-### Hi there 👋
+## Olá, sou o Erick Souza, Estudante de análise e Desenvolvimento de Sistemas!
+<br />
 
-<!--
-**ErickszDEV/ErickszDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sobre Mim**
 
-Here are some ideas to get you started:
+- Estou aprendendo sobre Front-End
+- Tenho um Breve conhecimento com Python
+- Melhor sonho é ser um Full-Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Erick -HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Erick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Erick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+
+<br />
+
+<div>
+   <a href="https://github.com/ErickszDEV">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickszDEV&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickszDEV&layout=compact&langs_count=6&theme=radical"/>
+</div>
+     
+ <br />
+     
+<a href="https://github.com/ErickszDEV/Calculadora-IMC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickszDEV&repo=Calculadora-IMC&theme=buefy" />
+</a>
+
+<br />
+
+### Para contato !
+ 
+<div> 
+  <a href="https://instagram.com/suxpeit0_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ericknhoow.souza2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ericksouza-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
