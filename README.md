@@ -25,7 +25,7 @@
  <br />
      
 <a href="https://github.com/ErickszDEV/Calculadora-IMC"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickszDEV&repo=Calculadora-IMC&theme=buefy"/></a>
-<a href="https://github.com/ErickszDEV/Calc-IMC-Interface-Grafica"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickszDEV&repo=Calc-IMC-Interface-Grafica&theme=buefy"/></a>
+<a href="https://github.com/ErickszDEV/IMC-Interface-Grafica"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickszDEV&repo=IMC-Interface-Grafica&theme=buefy"/></a>
 
 <br />
 
