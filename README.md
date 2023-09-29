@@ -38,3 +38,4 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/ErickszDEV/ErickszDEV/output/github-contribution-grid-snake.svg)
