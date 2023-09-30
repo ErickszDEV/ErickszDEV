@@ -1,18 +1,21 @@
-## Olá, Sou o Erick Souza, Estudante de análise e Desenvolvimento de Sistemas!
+<h2 align="center"> Hello, I'm Erick Souza, It's a pleasure to meet you 👋</h2>
 <br />
 
+<p align="center">
+<br><img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="450px"><br><br>
+</p>
+
 **Sobre Mim**
+- 🧙 Sou fã de Naruto, Black Clover, Jujutsu Kaisen e Supernatural.
+- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 🧗‍♂️ Adoro novos desafios e ter que me adaptar a eles.
+- 👨‍💻 Melhor sonho é ser um Full-Stack
 
-- Estou aprendendo sobre Front-End
-- Tenho um Breve conhecimento com Python
-- Melhor sonho é ser um Full-Stack
+## 📋 Skills
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Erick -HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Erick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Erick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <br />
 
@@ -37,3 +40,7 @@
   <a href="https://www.linkedin.com/in/ericksouza-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>
+
+<br />
+
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
