@@ -9,7 +9,7 @@
 - 🧙 Sou fã de Naruto, Black Clover, Jujutsu Kaisen e Supernatural.
 - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 🧗‍♂️ Adoro novos desafios e ter que me adaptar a eles.
-- 👨‍💻 Melhor sonho é ser um Full-Stack
+- 👨‍💻 Meu sonho é ser um Full-Stack
 
 ## 📋 Skills
 
