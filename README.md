@@ -27,7 +27,7 @@
      
  <br />
      
-<a href="https://github.com/ErickszDEV/LandingPage-CocaCola"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickszDEV&repo=LandingPage-CocaCola&theme=buefy"/></a>
+<a href="https://github.com/ErickszDEV/PROJETOS-DEV-EM-DOBRO"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickszDEV&repo=PROJETOS-DEV-EM-DOBRO&theme=buefy"/></a>
 <a href="https://github.com/ErickszDEV/IMC-Interface-Grafica"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickszDEV&repo=IMC-Interface-Grafica&theme=buefy"/></a>
 
 <br />
