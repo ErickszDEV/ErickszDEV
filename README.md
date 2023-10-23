@@ -1,4 +1,7 @@
-<h2 align="center"> Hello, I'm Erick Souza, It's a pleasure to meet you 👋</h2>
+<h1 align="center" >
+  <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&duration=4000&pause=700&color=F70000&random=false&width=500&height=70&lines=Ol%C3%A1!%F0%9F%91%8B;Me+chamo+Erick+Souza+!;" />
+</h1>
+
 <br />
 
 <p align="center">
@@ -11,7 +14,8 @@
 - 🧗‍♂️ Adoro novos desafios e ter que me adaptar a eles.
 - 👨‍💻 Meu sonho é ser um Full-Stack
 
-## 📋 Skills
+## 📋 
+<h2 align="center">⚒️ Skills ⚒️</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,6 +37,15 @@
 
 <br />
 
+<h2 align="center">⚡ Estatísticas ⚡</h2>
+<br>
+<div align=center>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ErickszDEV&theme=dark&hide_border=falso&locale=pt_BR" alt="GitHub Streak" /></a>
+<br/>
+</div>
+
+<br/>
+
 ### Para contato !
  
 <div> 
@@ -44,6 +57,6 @@
 
 <br />
 
-![Snake animation](https://github.com/ErickszDEV/ErickszDEV/blob/output/github-contribution-grid-snake.svg)
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ErickszDEV/ErickszDEV/output/github-contribution-grid-snake-dark.svg" />
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
