@@ -14,7 +14,7 @@
 - 🧗‍♂️ Adoro novos desafios e ter que me adaptar a eles.
 - 👨‍💻 Meu sonho é ser um Full-Stack
 
-## 📋 
+
 <h2 align="center">⚒️ Skills ⚒️</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,16 +24,17 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br />
 
-<div>
+<div align="center" >
    <a href="https://github.com/ErickszDEV">
    
    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickszDEV&layout=compact&langs_count=6&theme=radical"/>
 </div>
      
  <br />
-     
+<div align="center" >   
 <a href="https://github.com/ErickszDEV/PROJETOS-DEV-EM-DOBRO"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickszDEV&repo=PROJETOS-DEV-EM-DOBRO&theme=buefy"/></a>
 <a href="https://github.com/ErickszDEV/IMC-Interface-Grafica"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickszDEV&repo=IMC-Interface-Grafica&theme=buefy"/></a>
+</div>  
 
 <br />
 
@@ -46,9 +47,9 @@
 
 <br/>
 
-### Para contato !
+<h2 align="center" > Para contato ! </h2>
  
-<div> 
+<div align="center" > 
   <a href="https://instagram.com/suxpeit0_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ericksouzadeveloper@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ericksouza-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -56,7 +57,5 @@
 </div>
 
 <br />
-
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ErickszDEV/ErickszDEV/output/github-contribution-grid-snake-dark.svg" />
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
