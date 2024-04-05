@@ -38,7 +38,7 @@
  <br />
 <div align="center" >   
 <a href="https://github.com/ErickszDEV/PROJETOS-DEV-EM-DOBRO"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickszDEV&repo=PROJETOS-DEV-EM-DOBRO&theme=buefy"/></a>
-<a href="https://github.com/ErickszDEV/IMC-Interface-Grafica"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickszDEV&repo=IMC-Interface-Grafica&theme=buefy"/></a>
+<a href="https://github.com/ErickszDEV/CadastroListagemDeProdutos"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickszDEV&repo=CadastroListagemDeProdutos&theme=buefy"/></a>
 </div>  
 
 <br />
